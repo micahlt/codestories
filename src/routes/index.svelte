@@ -2,7 +2,7 @@
   <title>codestories</title>
 </svelte:head>
 <div class="header">
-  <h1>where your code matters</h1>
+  <h1>let your code speak</h1>
   <div class="cta">
     <a href="/waitlist" class="button primary">Join Waitlist</a>
     <a href="/login" class="button secondary">Log In</a>
